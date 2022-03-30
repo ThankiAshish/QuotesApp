@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="one" type="color">#84f9ee</item>
+    <item name="two" type="color">#dbc0f9</item>
+    <item name="three" type="color">#ed8087</item>
+    <item name="four" type="color">#e2fc9c</item>
+    <item name="five" type="color">#b184ff</item>
+    <item name="six" type="color">#ef7cbd</item>
+    <item name="seven" type="color">#7cef8f</item>
+    <item name="eight" type="color">#9ef7d8</item>
+    <item name="nine" type="color">#aaffd3</item>
+    <item name="ten" type="color" tools:ignore="Typos">#ffcce1</item>
+    <integer-array name="colors">
+        <item>@color/one</item>
+        <item>@color/two</item>
+        <item>@color/three</item>
+        <item>@color/four</item>
+        <item>@color/five</item>
+        <item>@color/six</item>
+        <item>@color/seven</item>
+        <item>@color/eight</item>
+        <item>@color/nine</item>
+        <item>@color/ten</item>
+    </integer-array>
+</resources>
